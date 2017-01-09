@@ -10,13 +10,10 @@ li {
     float: left;
 }
 
-.home{
+.menuprincipal > li{
   padding: 14px 16px;
 }
 
-.aboutme {
-padding: 14px 16px;
-}
 
 li a, .proyects {
     display: inline-block;
