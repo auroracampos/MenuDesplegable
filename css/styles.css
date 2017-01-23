@@ -24,7 +24,7 @@ li a, .proyects {
 }
 
 li a:hover, .proyects:hover .proyects {
-    background-color: red;
+    background-color: blue;
 }
 
 li.proyects {
